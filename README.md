@@ -3,6 +3,7 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![License](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
 Z-Player is a retro-styled, offline music player for Android, built with **Jetpack Compose** and **Media3 (ExoPlayer)**. It features a nostalgic cassette tape animation and a modern Material 3 Dark theme.
 
@@ -46,4 +47,5 @@ Contributions are welcome! If you'd like to improve Z-Player:
 
 ## 📜 License
 
-[GNU GENERAL PUBLIC LICENSE]
+This project is licensed under the GNU General Public License v3.0 (GPLv3).
+See the [LICENSE](LICENSE) file for details.
