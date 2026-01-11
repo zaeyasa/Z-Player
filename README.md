@@ -46,4 +46,4 @@ Contributions are welcome! If you'd like to improve Z-Player:
 
 ## 📜 License
 
-[Add your license here, e.g., MIT, Apache 2.0]
+[GNU GENERAL PUBLIC LICENSE]
