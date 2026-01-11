@@ -4,7 +4,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
 
-Z-Player is a retro-stlyed, offline music player for Android, built with **Jetpack Compose** and **Media3 (ExoPlayer)**. It features a nostalgic cassette tape animation and a modern Material 3 Dark theme.
+Z-Player is a retro-styled, offline music player for Android, built with **Jetpack Compose** and **Media3 (ExoPlayer)**. It features a nostalgic cassette tape animation and a modern Material 3 Dark theme.
 
 ## 🚧 Status: Work in Progress
 
